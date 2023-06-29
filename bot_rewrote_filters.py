@@ -6,8 +6,6 @@ from discord.ext import tasks
 from discord.ext import commands
 from dotenv import load_dotenv
 import sqlite3
-from selenium import webdriver
-from selenium.webdriver.common.by import By
 import time
 import requests
 import filters
